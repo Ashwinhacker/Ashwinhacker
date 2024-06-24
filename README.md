@@ -1,5 +1,5 @@
 # Ashwinhacker.io
-<!DOCTYPE html>
+
 <html>
     <head>
         <title> Ashwin </title>
