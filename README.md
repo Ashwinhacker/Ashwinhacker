@@ -28,14 +28,13 @@
             <div class="skill-row">
               <div class="middle-container">
                 
-                      <h4>Python:⭐⭐⭐⭐⭐  </h4>
-                      <h4>C     :⭐⭐</h4>
+                      <h4>Python:⭐⭐⭐⭐⭐ </h4>
+                      <h4>Kali linux:⭐⭐⭐⭐⭐ </h4>
                       <h4>HTML   :⭐⭐⭐</h4>
-                      <h4>js  :⭐⭐⭐</h4>
-                      <h4>bash : ⭐⭐⭐ </h4>
-                   <h4>   Kali linux:⭐⭐⭐⭐⭐ </h4>
-                   <h4>   Hardware hacking ⭐⭐</h4>
-
+                      <h4>js     :⭐⭐⭐
+                      <h4>C     :⭐⭐</h4>
+                      <h4>   Hardware hacking ⭐⭐</h4>
+        
                    </div>
 
                 </div>
