@@ -20,7 +20,7 @@
         <div class="skills">
             <h2>My Skills.</h2>
             <div class="skill-row">
-                <h3 class="edi"s> Bug bounty,CTF,Tool developer,coder,Editor</h3>
+                     Bug bounty,CTF,Tool developer,coder,Editor</h3>
               <img class="code-img" src="https://media0.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=790b7611e54db75f3681a8dd77c0f17b067bc925f931f115&rid=giphy.gif&ct=s" alt="">
     
             </div>
